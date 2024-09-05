@@ -55,4 +55,4 @@ https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
 
 ## EkranGif
 
-![](ice_cream_unit_test.gif)
+![](cream_unit_test.gif)
